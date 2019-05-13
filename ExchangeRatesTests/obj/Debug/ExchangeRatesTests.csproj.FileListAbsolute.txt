@@ -1,0 +1,16 @@
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\ExchangeRatesTests.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\ExchangeRatesTests.pdb
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\ExchangeRates.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\ExchangeRates.pdb
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\obj\Debug\ExchangeRatesTests.csprojAssemblyReference.cache
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\obj\Debug\ExchangeRatesTests.csproj.CoreCompileInputs.cache
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\obj\Debug\ExchangeRatesTests.csproj.CopyComplete
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\obj\Debug\ExchangeRatesTests.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRatesTests\obj\Debug\ExchangeRatesTests.pdb

@@ -1,0 +1,6 @@
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRates\obj\Debug\ExchangeRates.csprojAssemblyReference.cache
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRates\obj\Debug\ExchangeRates.csproj.CoreCompileInputs.cache
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRates\bin\Debug\ExchangeRates.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRates\bin\Debug\ExchangeRates.pdb
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRates\obj\Debug\ExchangeRates.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\ExchangeRates\obj\Debug\ExchangeRates.pdb

@@ -1,0 +1,10 @@
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\bin\Debug\Exchange.exe.config
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\bin\Debug\Exchange.exe
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\bin\Debug\Exchange.pdb
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\obj\Debug\ExchangeConsole.csprojAssemblyReference.cache
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\obj\Debug\ExchangeConsole.csproj.CoreCompileInputs.cache
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\obj\Debug\Exchange.exe
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\obj\Debug\Exchange.pdb
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\bin\Debug\ExchangeRates.dll
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\bin\Debug\ExchangeRates.pdb
+C:\Users\VV\Documents\Visual Studio 2017\Projects\Exchange\Exchange\Exchange\obj\Debug\ExchangeConsole.csproj.CopyComplete
